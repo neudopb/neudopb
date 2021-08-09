@@ -4,9 +4,7 @@
 
 - 🔭 Bolsista no NADIC com o projeto Inteligência Artificial Aplicada a Licitações Públicas;
 
-- 🌱 Atualmente estou aprendendo React Native;
-
-- ⚡ Buscando sempre evoluir.
+- 🌱 Atualmente estou estudando React Native;
 
 <div>
   <a href="https://github.com/neudopb">
@@ -30,6 +28,11 @@
   <img align="center" alt="MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg">
+</div>
+
+  ##
   
-  
+<div> <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
+  <a href = "mailto:neudinho66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/neudo-paulino-a9a3a3192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
