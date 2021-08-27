@@ -30,7 +30,7 @@
   <img align="center" alt="Heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg">
 </div>
 
-  ##
+  ## 
   
 <div> <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
   <a href = "mailto:neudinho66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
