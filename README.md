@@ -4,7 +4,7 @@
 
 - 🔭 Bolsista no NADIC com o projeto Inteligência Artificial Aplicada a Licitações Públicas;
 
-- 🌱 Atualmente estou estudando React Native;
+- 🌱 Atualmente estou estudando React Native e React JS;
 
 <div> <!-- https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://github.com/neudopb">
